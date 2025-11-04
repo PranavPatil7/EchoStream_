@@ -1,8 +1,4 @@
-# Azure AI Agent Service-enterprise-demo
-
-This sample demonstrates how to build a streaming enterprise agent using **Azure AI Agent Service**. The agent can answer questions in real time using local HR and company policy documents, integrate external context via Bing, using gpt-4o-2024-05-13.
-
-[![YouTube](https://github.com/Azure-Samples/azure-ai-agent-service-enterprise-demo/blob/main/assets/agent-service-youtube.png?raw=true)](https://www.youtube.com/watch?v=ph-1-OIqsxY)
+# EchoStream – Real Time Enterprise LLM Agent                                                                          
 
 ## Features
 
@@ -181,11 +177,6 @@ For scenarios requiring direct control over an existing search index, update the
 - [Azure AI Search with Agents](https://learn.microsoft.com/azure/ai-services/agents/how-to/tools/azure-ai-search)
 - [Azure Logic Apps Documentation](https://learn.microsoft.com/en-us/azure/logic-apps/)
 - [OpenWeather API](https://openweathermap.org/api)
-
-## Known Issues
-Please review our [Known Issues](KNOWN_ISSUES.md) for current bugs and workarounds before reporting new problems.
-
-## Acknowledgments
 
 - **[Gradio](https://github.com/gradio-app/gradio)**  
   This project uses Gradio under the [Apache License 2.0](https://github.com/gradio-app/gradio/blob/main/LICENSE). No modifications to Gradio’s source code are distributed in this repository.
